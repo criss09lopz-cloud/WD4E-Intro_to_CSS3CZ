@@ -15,8 +15,18 @@ header {
 /* Estilo para el nav */
 nav {
     background-color: #388e3c;
+    color: #ffffff;
 }
 
+/* Color de los links del nav */
+nav a {
+    color: #ffffff;
+}
+
+/* Color de los links del footer */
+footer a {
+    color: #ffffff;
+}
 /* Estilo para el main */
 main {
     background-color: #f5f5f5;
